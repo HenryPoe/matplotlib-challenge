@@ -1,0 +1,11 @@
+Capomulin and Ramicane are both far better for tumor volume than either Infubinol or Ceftamin, or really any of the others for that matter.
+And I suspect that since those two showed promise that is why they have more measurements than any of the others as well.
+
+Since the breakdown of mice participants in the study by sex is essentially 50/50, you could
+possibly assume that the treatments affect both male and female mice the same since their
+weren't many outliers in the tumor volume of the treatments we looked at.
+
+The treatment worked quite well for mouse s185, over the course of the study its tumor volume decreased by almost 50%.
+
+There is a fairly high correlation between tumor volume and mouse weight, as would be expected.
+

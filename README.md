@@ -6,7 +6,7 @@ The purpose of this study was to compare the performance of our drug of interest
 The following is all of the tables and figures needed for a technical report of the study, including a top-level summary of the study results.
 
 
-##Summary of what the Jupyter Notebook contains:
+## Summary of what the Jupyter Notebook contains:
 
 * Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
